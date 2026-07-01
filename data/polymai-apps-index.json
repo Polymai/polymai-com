@@ -1,8 +1,27 @@
 {
-  "generatedAt": "2026-06-30T13:16:16.383Z",
+  "generatedAt": "2026-07-01T19:12:50.505Z",
   "source": "github:Polymai",
-  "count": 37,
+  "count": 38,
   "apps": [
+    {
+      "id": "rentmytree",
+      "title": "Rentmytree",
+      "focus": "GitHub build",
+      "audience": "Polymai customers",
+      "industry": "Custom software",
+      "summary": "FruitLease is a marketplace to rent a neighbour's fruit, olive or nut tree and keep the harvest — citrus, apple, stone fruit, olive, fig and nuts. Browse trees near you on the map and book a season.",
+      "description": "FruitLease is a marketplace to rent a neighbour's fruit, olive or nut tree and keep the harvest — citrus, apple, stone fruit, olive, fig and nuts. Browse trees near you on the map and book a season.",
+      "status": "Live app",
+      "impact": "Open live app",
+      "url": "https://polymai.github.io/rentmytree/",
+      "previewUrl": "https://polymai.github.io/rentmytree/",
+      "screenStatus": "ok",
+      "screenStatusCode": 200,
+      "publishedAt": "2026-07-01T18:22:55Z",
+      "updatedAt": "2026-07-01T18:22:55Z",
+      "repo": "Polymai/rentmytree",
+      "manifest": ""
+    },
     {
       "id": "new-site",
       "title": "New Site",
