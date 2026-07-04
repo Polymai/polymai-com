@@ -1,8 +1,27 @@
 {
-  "generatedAt": "2026-07-03T22:16:37.898Z",
+  "generatedAt": "2026-07-04T09:32:17.894Z",
   "source": "github:Polymai",
-  "count": 38,
+  "count": 39,
   "apps": [
+    {
+      "id": "timeline",
+      "title": "Timeline",
+      "focus": "GitHub build",
+      "audience": "Polymai customers",
+      "industry": "Custom software",
+      "summary": "TimeLine helps teams report project and line hours, manage company records, and keep time ready for review.",
+      "description": "TimeLine helps teams report project and line hours, manage company records, and keep time ready for review.",
+      "status": "Live app",
+      "impact": "Open live app",
+      "url": "https://polymai.github.io/timeline/",
+      "previewUrl": "https://polymai.github.io/timeline/",
+      "screenStatus": "ok",
+      "screenStatusCode": 200,
+      "publishedAt": "2026-07-04T08:36:28Z",
+      "updatedAt": "2026-07-04T08:36:28Z",
+      "repo": "Polymai/timeline",
+      "manifest": ""
+    },
     {
       "id": "pulsedesk",
       "title": "Pulsedesk",
