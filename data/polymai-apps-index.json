@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T10:31:05.638Z",
+  "generatedAt": "2026-07-05T12:42:24.856Z",
   "source": "github:Polymai",
   "count": 39,
   "apps": [
@@ -733,12 +733,12 @@
       "industry": "Custom software",
       "summary": "Snake is a live Polymai app preview with an embeddable product surface and a full-screen example to inspect.",
       "description": "Snake is a live Polymai app preview with an embeddable product surface and a full-screen example to inspect.",
-      "status": "Needs check",
-      "impact": "Check publish",
+      "status": "Live app",
+      "impact": "Open live app",
       "url": "https://polymai.github.io/snake/",
       "previewUrl": "https://polymai.github.io/snake/",
-      "screenStatus": "needs-check",
-      "screenStatusCode": 0,
+      "screenStatus": "ok",
+      "screenStatusCode": 200,
       "publishedAt": "2026-01-05T17:05:03Z",
       "updatedAt": "2026-01-05T17:05:03Z",
       "repo": "Polymai/snake",
