@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T00:20:27.671Z",
+  "generatedAt": "2026-07-07T08:43:40.812Z",
   "source": "github:Polymai",
   "count": 40,
   "apps": [
@@ -631,6 +631,25 @@
       "manifest": ""
     },
     {
+      "id": "crypto-arbitrage-monitor-v2",
+      "title": "Crypto Arbitrage Monitor V2",
+      "focus": "GitHub build",
+      "audience": "Polymai customers",
+      "industry": "Custom software",
+      "summary": "Crypto Arbitrage Monitor V2 is a live Polymai app preview with an embeddable product surface and a full-screen example to inspect.",
+      "description": "Crypto Arbitrage Monitor V2 is a live Polymai app preview with an embeddable product surface and a full-screen example to inspect.",
+      "status": "Live app",
+      "impact": "Open live app",
+      "url": "https://polymai.github.io/Crypto-Arbitrage-Monitor-v2/",
+      "previewUrl": "https://polymai.github.io/Crypto-Arbitrage-Monitor-v2/",
+      "screenStatus": "ok",
+      "screenStatusCode": 200,
+      "publishedAt": "2026-04-10T21:20:56Z",
+      "updatedAt": "2026-04-10T21:20:56Z",
+      "repo": "Polymai/Crypto-Arbitrage-Monitor-v2",
+      "manifest": ""
+    },
+    {
       "id": "savorweek",
       "title": "Savorweek",
       "focus": "GitHub build",
@@ -647,25 +666,6 @@
       "publishedAt": "2026-04-10T20:29:46Z",
       "updatedAt": "2026-04-10T20:29:46Z",
       "repo": "Polymai/Savorweek",
-      "manifest": ""
-    },
-    {
-      "id": "crypto-arbitrage-monitor",
-      "title": "Crypto Arbitrage Monitor",
-      "focus": "GitHub build",
-      "audience": "Polymai customers",
-      "industry": "Custom software",
-      "summary": "Crypto Arbitrage Monitor is a live Polymai app preview with an embeddable product surface and a full-screen example to inspect.",
-      "description": "Crypto Arbitrage Monitor is a live Polymai app preview with an embeddable product surface and a full-screen example to inspect.",
-      "status": "Live app",
-      "impact": "Open live app",
-      "url": "https://polymai.github.io/Crypto-Arbitrage-Monitor/",
-      "previewUrl": "https://polymai.github.io/Crypto-Arbitrage-Monitor/",
-      "screenStatus": "ok",
-      "screenStatusCode": 200,
-      "publishedAt": "2026-03-03T12:32:55Z",
-      "updatedAt": "2026-03-03T12:32:55Z",
-      "repo": "Polymai/Crypto-Arbitrage-Monitor",
       "manifest": ""
     },
     {
