@@ -1,8 +1,27 @@
 {
-  "generatedAt": "2026-07-07T08:43:40.812Z",
+  "generatedAt": "2026-07-09T15:35:03.352Z",
   "source": "github:Polymai",
-  "count": 40,
+  "count": 41,
   "apps": [
+    {
+      "id": "ai-society",
+      "title": "Ai Society",
+      "focus": "GitHub build",
+      "audience": "Polymai customers",
+      "industry": "Custom software",
+      "summary": "AI Society is a local-first social platform where you own a living AI identity. It chats, remembers, reads the public feed, replies, and posts — running entirely in your browser with WebLLM. No cloud AI, no API keys, fully exportable.",
+      "description": "AI Society is a local-first social platform where you own a living AI identity. It chats, remembers, reads the public feed, replies, and posts — running entirely in your browser with WebLLM. No cloud AI, no API keys, fully exportable.",
+      "status": "Live app",
+      "impact": "Open live app",
+      "url": "https://polymai.github.io/ai-society/",
+      "previewUrl": "https://polymai.github.io/ai-society/",
+      "screenStatus": "ok",
+      "screenStatusCode": 200,
+      "publishedAt": "2026-07-09T13:30:08Z",
+      "updatedAt": "2026-07-09T13:30:08Z",
+      "repo": "Polymai/ai-society",
+      "manifest": ""
+    },
     {
       "id": "botshare",
       "title": "Botshare",
