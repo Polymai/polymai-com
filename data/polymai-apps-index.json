@@ -1,8 +1,27 @@
 {
-  "generatedAt": "2026-07-18T21:07:00.014Z",
+  "generatedAt": "2026-07-19T12:06:36.608Z",
   "source": "github:Polymai",
-  "count": 41,
+  "count": 42,
   "apps": [
+    {
+      "id": "logo72-ai",
+      "title": "Logo72 Ai",
+      "focus": "GitHub build",
+      "audience": "Polymai customers",
+      "industry": "Custom software",
+      "summary": "Logo72 AI turns a focused creative brief into four original logo directions and a practical brand kit.",
+      "description": "Logo72 AI turns a focused creative brief into four original logo directions and a practical brand kit.",
+      "status": "Live app",
+      "impact": "Open live app",
+      "url": "https://polymai.github.io/logo72-ai/",
+      "previewUrl": "https://polymai.github.io/logo72-ai/",
+      "screenStatus": "ok",
+      "screenStatusCode": 200,
+      "publishedAt": "2026-07-19T10:54:22Z",
+      "updatedAt": "2026-07-19T10:54:22Z",
+      "repo": "Polymai/logo72-ai",
+      "manifest": ""
+    },
     {
       "id": "ai-society",
       "title": "Ai Society",
