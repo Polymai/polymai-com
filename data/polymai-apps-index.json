@@ -1,8 +1,27 @@
 {
-  "generatedAt": "2026-07-23T16:47:14.249Z",
+  "generatedAt": "2026-07-24T09:35:18.995Z",
   "source": "github:Polymai",
-  "count": 42,
+  "count": 43,
   "apps": [
+    {
+      "id": "the-mesh-vault",
+      "title": "The Mesh Vault",
+      "focus": "GitHub build",
+      "audience": "Polymai customers",
+      "industry": "Custom software",
+      "summary": "Encrypt files locally and keep them recoverable across a resilient browser-powered device mesh.",
+      "description": "Encrypt files locally and keep them recoverable across a resilient browser-powered device mesh.",
+      "status": "Live app",
+      "impact": "Open live app",
+      "url": "https://polymai.github.io/the-mesh-vault/",
+      "previewUrl": "https://polymai.github.io/the-mesh-vault/",
+      "screenStatus": "ok",
+      "screenStatusCode": 200,
+      "publishedAt": "2026-07-24T09:11:51Z",
+      "updatedAt": "2026-07-24T09:11:51Z",
+      "repo": "Polymai/the-mesh-vault",
+      "manifest": ""
+    },
     {
       "id": "logo72-ai",
       "title": "Logo72 Ai",
