@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T14:36:44.259Z",
+  "generatedAt": "2026-08-05T16:53:23.336Z",
   "source": "github:Polymai",
   "count": 43,
   "apps": [
@@ -752,12 +752,12 @@
       "industry": "Custom software",
       "summary": "Shopping List is a live Polymai app preview with an embeddable product surface and a full-screen example to inspect.",
       "description": "Shopping List is a live Polymai app preview with an embeddable product surface and a full-screen example to inspect.",
-      "status": "Needs check",
-      "impact": "Check publish",
+      "status": "Live app",
+      "impact": "Open live app",
       "url": "https://polymai.github.io/shopping-list/",
       "previewUrl": "https://polymai.github.io/shopping-list/",
-      "screenStatus": "needs-check",
-      "screenStatusCode": 0,
+      "screenStatus": "ok",
+      "screenStatusCode": 200,
       "publishedAt": "2026-02-05T01:47:13Z",
       "updatedAt": "2026-02-05T01:47:13Z",
       "repo": "Polymai/shopping-list",
