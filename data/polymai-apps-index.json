@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T22:37:48.292Z",
+  "generatedAt": "2026-08-15T23:34:42.398Z",
   "source": "github:Polymai",
   "count": 43,
   "apps": [
@@ -695,12 +695,12 @@
       "industry": "Custom software",
       "summary": "Crypto Arbitrage Monitor V2 is a live Polymai app preview with an embeddable product surface and a full-screen example to inspect.",
       "description": "Crypto Arbitrage Monitor V2 is a live Polymai app preview with an embeddable product surface and a full-screen example to inspect.",
-      "status": "Needs check",
-      "impact": "Check publish",
+      "status": "Live app",
+      "impact": "Open live app",
       "url": "https://polymai.github.io/Crypto-Arbitrage-Monitor-v2/",
       "previewUrl": "https://polymai.github.io/Crypto-Arbitrage-Monitor-v2/",
-      "screenStatus": "needs-check",
-      "screenStatusCode": 0,
+      "screenStatus": "ok",
+      "screenStatusCode": 200,
       "publishedAt": "2026-04-10T21:20:56Z",
       "updatedAt": "2026-04-10T21:20:56Z",
       "repo": "Polymai/Crypto-Arbitrage-Monitor-v2",
